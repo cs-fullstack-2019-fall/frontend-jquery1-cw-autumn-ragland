@@ -1,0 +1,17 @@
+.applyRedText{
+    color: red;
+}
+
+.applyBlueText{
+    color: blue;
+}
+
+.greenBGWhiteText{
+    background-color: green;
+    color: white;
+}
+
+.orangeBGPinkText{
+    background-color: orange;
+    color: pink;
+}

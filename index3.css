@@ -1,0 +1,7 @@
+table, td{
+    border: 1px solid blue;
+}
+
+.grayRowStyle:nth-child(even){
+    background-color: gray;
+}
